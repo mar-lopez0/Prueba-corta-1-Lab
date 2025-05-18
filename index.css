@@ -40,15 +40,26 @@
     
 
     /*header 2 */
+
     .botones {
       background-color: #fff;
       text-align: center;
       height: 40px;
       
     }
-    
   
       /*seccion 1 */
+
+      .section1{
+        background-color: #fff;
+        color: rgb(99, 136, 184);
+        font-size: 20px;
+        padding: 15px 20px;
+        display:flex;
+        justify-content: space-between;
+        
+        
+      }
       .rectangulo {
         
         width: 90rem;
@@ -63,6 +74,7 @@
         align-items: center;
         justify-content:space-between;
         padding-left: 6%;
+        margin-left: 6rem;
         
       }
       .fondoreloj {
@@ -97,58 +109,66 @@
       .botonizquierdo {
         position: absolute;
         margin-top: -197px;
-        margin-left: -10rem;
+        margin-left: -11rem;
       }
 
       /* seccion 2 */
-      .offer-section {
-        margin-top: 10rem;
-        margin-left: 140px; 
-        margin-right: 140px;
-        margin-bottom: -20px;
-        border-bottom: 2px solid #008ECC;
+      .linea0 {
+        position: relative;
+        border: 1px solid #ebe2e2;
+        top: -145rem;
+        margin-left: -33.5rem;
+        width: 100rem;
       }
+
+      .phones {
+        position: relative;
+        top: 2rem;
+        margin-left: 6.5rem;
+      }
+      
       .vista {
-        margin-top: -20px;
-        margin-left: 94rem;
-        margin-bottom: 10px;
+        position: relative;
+        top: 2rem;
+        margin-left: 69rem;
+        
         
       }
        .telefono1 {
         margin-top: 5rem;
-        margin-left: 9rem;
+        margin-left: 7rem;
         width: 15rem;
     
        }
 
        .telefono2 {
           margin-top: -20rem;
-          margin-left: 28rem;
+          margin-left: 25rem;
           width: 20rem;
        }
        .telefono3 {
         position:relative;
         top: -28.5rem;    
-        margin-left: 52rem;  
+        margin-left: 48rem;  
         width: 15rem;
          }
 
         .telefono4 {
           position: relative;
           top: -48.5rem;
-          margin-left: 73rem;
+          margin-left: 70rem;
           width: 15rem;
         }
         .imagen-fondo {
           position: relative;
           top: -26.5rem;
-          margin-left: 137rem;
+          margin-left: 121rem;
           width: 15rem;
         }
         .imagen-celu {
           position: relative;
           top: -46.5rem;
-          margin-left: 140rem;
+          margin-left: 124rem;
         }
         .pannel-azul {
           position: relative;
@@ -158,109 +178,290 @@
 
         .fondo-abajo {
           position: relative;
-          margin-left: 137rem;
-          top: -47rem;
+          margin-left: -11.5rem;
+          top: -40rem;
           width: 15rem;
         }
 
         .precio-1 {
           position: relative;
-          top: -51.5rem;
-          margin-left: 138rem;
+          top: -45rem;
+          margin-left: 122rem;
         }
 
         .precio-2 {
           position: relative;
-          top: -52.7rem;
-          margin-left: 143rem ;
+          top: -46.5rem;
+          margin-left: 127rem ;
         }
         .precio-3 {
           position: relative;
-          top: -51.5rem;
-          margin-left: 138rem;
+          top: -45.5rem;
+          margin-left: 122rem;
         }
         .nombre-celu {
           position: relative;
-          top: -54.5rem;
-          margin-left: -8.5rem;
+          top: -48rem;
+          margin-left: -9rem;
         }
 
         /* seccion 3 */
 
         .top-categorias {
           position: relative;
-          top: -45rem;
-          margin-left: 50rem;
+          top: -40rem;
+          margin-left: 37rem;
         
         }
         
         .vista0 {
           position: relative;
-          top: -45rem;
-          margin-left: 49rem; 
+          top: -44.5rem;
+          margin-left: 60.5rem; 
+        }
+
+        .linea1 {
+          position: relative;
+          top: -22.5rem;
+          margin-left: -8.5rem;
+          width: 82rem;
         }
 
         .celular {
           position: relative;
           top: -42rem;
-          margin-left: -43rem;
+          margin-left: -31.5rem;
         }
   
         .crema1 {
-          background-color: #f7ebeb;
+          
           position: relative;
           top: -54rem;
-          margin-left: -27rem;
+          margin-left: -16rem;
         }
         .lavadora {
-          background-color: #f7ebeb;
+        
           position: relative;
           top: -65rem;
-          margin-left: -12rem;
+          margin-left: -2rem;
         }
         .fondosi {
-          background-color: #f7ebeb;
+          
           position: relative;
           top: -76rem;
-          margin-left: 3rem;
+          margin-left: 12rem;
         }
         .sillonn {
           position: relative;
           top: -87rem;
-          margin-left: 3.5rem;
+          margin-left: 12rem;
         }
         .fondorel {
-          background-color: #f7ebeb;
+          
           position: relative;
           top: -95rem;
-          margin-left: 18rem;
+          margin-left: 26rem;
           
         }
         .reloj2 {
           position: relative;
           top: -104.5rem;
-          margin-left: 19rem;
+          margin-left: 27rem;
         }
         .fondoplan {
-          background-color: #f7ebeb;
+          
           position: relative;
           top: -112rem;
-          margin-left: 32rem;
+          margin-left: 41rem;
         }
         .plantas {
           position: relative;
           top: -122.5rem;
-          margin-left: 32.5rem;
+          margin-left: 41.5rem;
         }
         .fondocollar {
-          background-color: #f7ebeb;
+        
           position: relative;
           top: -130.5rem;
-          margin-left: 46rem;
+          margin-left: 57rem;
         }
         .collar {
           position: relative;
           top: -70.5rem;
-          margin-left: 23rem;
+          margin-left: 28.5rem;
+        }
+
+        /*section 3 */
+        .electronic {
+          position: relative;
+          top: -62rem;
+          margin-left: -129rem;
+        }
+        .vista3 {
+          position: relative;
+          top: -60rem;
+          margin-left: -37rem;
+        }
+        .linea2 {
+          position: relative;
+          top: -9rem;
+          margin-left: -8rem;
+          width: 82rem
+
+        }
+        .iphone {
+          position: relative;
+          top: -57rem;
+          margin-left: -129rem;
+          width: 450px;
+        }
+        .redmi {
+          position: relative;
+          top: -80.5rem;
+          margin-left: -94rem;
+          width: 30rem;
+          height: 390px;
+        }
+        .redmimedio {
+          position: relative;
+          top: -99rem;
+          margin-left: -92rem;
+        }
+        .xiaomi {
+          position: relative;
+          top: -107.5rem;
+          margin-left: -60rem;
+          width: 30rem;
+          height: 390px;
+        }
+        
+        .logo {
+          position: relative;
+          top: -126rem;
+          margin-left: -58rem;
+        }
+        .circulos2 {
+          position: relative;
+          top: -117rem;
+          margin-left: -83rem;
+        } 
+
+        /*seccion 4 */
+
+        .linea3 {
+          position: relative;
+          border: 1px solid #ebe2e2;
+          top: -112rem;
+          margin-left: -117rem;
+          width: 86rem;
+        }
+        .vista4 {
+          position: relative;
+          top: -56rem;
+          margin-left: -18rem;
+        }
+        .frutas {
+          position: relative;
+          top: -110rem;
+          margin-left: -127rem;
+        }
+
+        
+        .fondocanasta {
+          position: relative;
+          top: -109rem;
+          margin-left: -129rem;
+        }
+        .frut {
+          position: relative;
+          top: -62rem;
+          margin-left: -63.5rem;
+        }
+        .nombre1 {
+          position: relative;
+          top: -29rem;
+          margin-left: -31rem;
+        }
+        .nombre2 {
+          position: relative;
+          top: -28.5rem;
+          margin-left: -31.5rem;
+        }
+        .fondobolsa {
+          position: relative;
+          top: -73.5rem;
+          margin-left: -47rem;
+        }
+        .bolsafrut {
+          position: relative;
+          top: -42.5rem;
+          margin-left: -23rem;
+        }
+        .preciofrut2 {
+          position: relative;
+          top: -82rem;
+          margin-left: -45rem;
+        }
+        .fondofruta3 {
+          position: relative;
+          top: -99rem;
+          margin-left: -30rem;
+        }
+        .frutasolas {
+          position: relative;
+          top: -55rem;
+          margin-left: -14.5rem;
+        }
+        .preciofruta3 {
+          position: relative;
+          top: -53.5rem;
+          margin-left: -14rem;
+        }
+        .fondofresas {
+        
+          position: relative;
+          top: -61rem;
+          margin-left: -7rem;
+       
+        }
+        .fresas {
+          position: relative;
+          top: -65.5rem;
+         margin-left: -6.5rem; 
+        }
+        .preciofresas {
+          position: relative;
+          top: -64.5rem;
+          margin-left: -6rem;
+        }
+        .fondomango {
+          position: relative;
+          top: -72rem;
+          margin-left: 2rem;
+        }
+        .mango {
+          position: relative;
+          top: -77.5rem;
+          margin-left: 2rem;
+        }
+        .preciomango {
+          position: relative;
+          top: -76.5rem;
+          margin-left: 2rem;
+        }
+        .fondocerezas {
+          position: relative;
+          top: -167rem;
+          margin-left: 20rem;
+        }
+        .cerezas {
+          position: relative;
+          top: -89.5rem;
+          margin-left: 11rem;
+        }
+        .preciocerezas {
+          position: relative;
+          top: -88.5rem;
+          margin-left: 11rem;
         }
         
