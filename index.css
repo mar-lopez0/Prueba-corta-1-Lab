@@ -141,62 +141,126 @@
         }
         .imagen-fondo {
           position: relative;
-          top: -68.5rem;
-          margin-left: 93.5rem;
+          top: -26.5rem;
+          margin-left: 137rem;
           width: 15rem;
         }
         .imagen-celu {
           position: relative;
-          top: -88rem;
-          margin-left: 97rem;
+          top: -46.5rem;
+          margin-left: 140rem;
         }
         .pannel-azul {
           position: relative;
-          top: -84.5rem;
+          top: -42.5rem;
           margin-left: -3.5rem;
         }
 
         .fondo-abajo {
           position: relative;
-          margin-left: 93.5rem;
-          top: -89rem;
+          margin-left: 137rem;
+          top: -47rem;
           width: 15rem;
         }
 
         .precio-1 {
           position: relative;
-          top: -93.5rem;
-          margin-left: 94.5rem;
+          top: -51.5rem;
+          margin-left: 138rem;
         }
 
         .precio-2 {
           position: relative;
-          top: -94.5rem;
-          margin-left: 99rem ;
+          top: -52.7rem;
+          margin-left: 143rem ;
         }
         .precio-3 {
           position: relative;
-          top: -93rem;
-          margin-left: 94.5rem;
+          top: -51.5rem;
+          margin-left: 138rem;
         }
         .nombre-celu {
           position: relative;
-          top: -96rem;
-          margin-left: -8rem;
+          top: -54.5rem;
+          margin-left: -8.5rem;
         }
 
         /* seccion 3 */
-        .section-offer {
-          margin-top: -80rem;
-          margin-left: 138px; 
-          margin-right: 140px;
-          margin-bottom: -20px;
-          border-bottom: 2px solid #008ECC;
-        }
-        .vista2 {
+
+        .top-categorias {
           position: relative;
-          top: 4rem;
-          margin-left: 94rem;
-          margin-bottom: 10px;
+          top: -45rem;
+          margin-left: 50rem;
+        
+        }
+        
+        .vista0 {
+          position: relative;
+          top: -45rem;
+          margin-left: 49rem; 
+        }
+
+        .celular {
+          position: relative;
+          top: -42rem;
+          margin-left: -43rem;
+        }
+  
+        .crema1 {
+          background-color: #f7ebeb;
+          position: relative;
+          top: -54rem;
+          margin-left: -27rem;
+        }
+        .lavadora {
+          background-color: #f7ebeb;
+          position: relative;
+          top: -65rem;
+          margin-left: -12rem;
+        }
+        .fondosi {
+          background-color: #f7ebeb;
+          position: relative;
+          top: -76rem;
+          margin-left: 3rem;
+        }
+        .sillonn {
+          position: relative;
+          top: -87rem;
+          margin-left: 3.5rem;
+        }
+        .fondorel {
+          background-color: #f7ebeb;
+          position: relative;
+          top: -95rem;
+          margin-left: 18rem;
           
         }
+        .reloj2 {
+          position: relative;
+          top: -104.5rem;
+          margin-left: 19rem;
+        }
+        .fondoplan {
+          background-color: #f7ebeb;
+          position: relative;
+          top: -112rem;
+          margin-left: 32rem;
+        }
+        .plantas {
+          position: relative;
+          top: -122.5rem;
+          margin-left: 32.5rem;
+        }
+        .fondocollar {
+          background-color: #f7ebeb;
+          position: relative;
+          top: -130.5rem;
+          margin-left: 46rem;
+        }
+        .collar {
+          position: relative;
+          top: -70.5rem;
+          margin-left: 23rem;
+        }
+        
